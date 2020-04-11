@@ -3,7 +3,7 @@ templateKey: index-page
 title: FUEL YOUR BODY. NOURISH YOUR LIFE. POWER YOUR PURPOSE.™
 image: /img/robynlandis_sunset.jpg
 heading: Great coffee with a conscience
-subheading: "*Life is a gift. You are a treasure. Learn how to treat yourself like it.*"
+subheading: Life is a gift. You are a treasure. Learn how to treat yourself like it.
 mainpitch:
   title: Why Kaldi
   description: >
